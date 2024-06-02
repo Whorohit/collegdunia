@@ -1,0 +1,723 @@
+[
+    {
+        "cdrank": 1,
+        "name": "IIT Madras Indian Institute of Technology[IITM], Chennai",
+        "location": "Chennai, Tamil Nadu",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech",
+            "cutoff": "JEE-Advanced 2023 Cutoff: 148",
+            "fees": "₹ 2,14,500",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 2,14,500",
+            "averagePackage": "₹ 21,48,000",
+            "highestPackage": "₹ 1,98,00,000"
+        },
+        "rating": "4.2 ",
+        "reviews": "352 ",
+        "bestIn": "Social Life",
+        "rank": "278",
+        "rankingSource": "QS2024"
+    },
+    {
+        "cdrank": 2,
+        "name": "IIT Bombay Indian Institute of Technology[IITB], Mumbai",
+        "location": "Mumbai, Maharashtra",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Advanced 2023 Cutoff: 66",
+            "fees": "₹ 2,11,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 2,11,000",
+            "averagePackage": "₹ 20,08,000",
+            "highestPackage": "₹ 1,70,00,000"
+        },
+        "rating": "4.5 ",
+        "reviews": "475 ",
+        "bestIn": "Placements",
+        "rank": "172nd",
+        "rankingSource": "QS2024"
+    },
+    {
+        "cdrank": 3,
+        "name": "IIT Delhi Indian Institute of Technology[IITD], New Delhi",
+        "location": "New Delhi, Delhi",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Advanced 2023 Cutoff: 93",
+            "fees": "₹ 2,24,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 2,24,000",
+            "averagePackage": "₹ 19,72,000",
+            "highestPackage": "₹ 1,80,00,000"
+        },
+        "rating": "4.4 ",
+        "reviews": "428 ",
+        "bestIn": "Faculty",
+        "rank": "193",
+        "rankingSource": "QS2024"
+    },
+    {
+        "cdrank": 4,
+        "name": "NIT Trichy National Institute of Technology[NITT], Tiruchirappalli",
+        "location": "Tiruchirappalli, Tamil Nadu",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 152",
+            "fees": "₹ 1,61,500",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,61,500",
+            "averagePackage": "₹ 9,00,000",
+            "highestPackage": "₹ 42,00,000"
+        },
+        "rating": "4.3 ",
+        "reviews": "289 ",
+        "bestIn": "Campus Life",
+        "rank": "19",
+        "rankingSource": "NIRF2024"
+    },
+    {
+        "cdrank": 5,
+        "name": "NIT Surathkal National Institute of Technology[NITK], Surathkal",
+        "location": "Surathkal, Karnataka",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 180",
+            "fees": "₹ 1,50,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,50,000",
+            "averagePackage": "₹ 12,50,000",
+            "highestPackage": "₹ 44,00,000"
+        },
+        "rating": "4.4 ",
+        "reviews": "305 ",
+        "bestIn": "Infrastructure",
+        "rank": "21st",
+        "rankingSource": "NIRF2024"
+    },
+    {
+        "cdrank": 6,
+        "name": "NIT Warangal National Institute of Technology[NITW], Warangal",
+        "location": "Warangal, Telangana",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 140",
+            "fees": "₹ 1,60,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,60,000",
+            "averagePackage": "₹ 10,20,000",
+            "highestPackage": "₹ 37,00,000"
+        },
+        "rating": "4.3 ",
+        "reviews": "290 ",
+        "bestIn": "Faculty",
+        "rank": "25",
+        "rankingSource": "NIRF2024"
+    },
+    {
+        "cdrank": 7,
+        "name": "IIIT Hyderabad International Institute of Information Technology[IIITH], Hyderabad",
+        "location": "Hyderabad, Telangana",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 99",
+            "fees": "₹ 3,00,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 3,00,000",
+            "averagePackage": "₹ 24,50,000",
+            "highestPackage": "₹ 65,00,000"
+        },
+        "rating": "4.6 ",
+        "reviews": "310 ",
+        "bestIn": "Placements",
+        "rank": "5",
+        "rankingSource": "QS2024"
+    },
+    {
+        "cdrank": 8,
+        "name": "IIIT Bangalore International Institute of Information Technology[IIITB], Bangalore",
+        "location": "Bangalore, Karnataka",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 112",
+            "fees": "₹ 2,80,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 2,80,000",
+            "averagePackage": "₹ 23,00,000",
+            "highestPackage": "₹ 60,00,000"
+        },
+        "rating": "4.5 ",
+        "reviews": "295 ",
+        "bestIn": "Research",
+        "rank": "7",
+        "rankingSource": "QS2024"
+    },
+    {
+        "cdrank": 9,
+        "name": "IIIT Delhi Indraprastha Institute of Information Technology[IIITD], New Delhi",
+        "location": "New Delhi, Delhi",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 120",
+            "fees": "₹ 2,75,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 2,75,000",
+            "averagePackage": "₹ 21,00,000",
+            "highestPackage": "₹ 55,00,000"
+        },
+        "rating": "4.4 ",
+        "reviews": "280 ",
+        "bestIn": "Faculty",
+        "rank": "9",
+        "rankingSource": "QS2024"
+    },
+    {
+        "cdrank": 10,
+        "name": "NIT Warangal National Institute of Technology[NITW], Warangal",
+        "location": "Warangal, Telangana",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 140",
+            "fees": "₹ 1,60,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,60,000",
+            "averagePackage": "₹ 10,20,000",
+            "highestPackage": "₹ 37,00,000"
+        },
+        "rating": "4.3 ",
+        "reviews": "290 ",
+        "bestIn": "Faculty",
+        "rank": "25",
+        "rankingSource": "NIRF2024"
+    },
+    {
+        "cdrank": 11,
+        "name": "NIT Trichy National Institute of Technology[NITT], Tiruchirappalli",
+        "location": "Tiruchirappalli, Tamil Nadu",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 152",
+            "fees": "₹ 1,61,500",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,61,500",
+            "averagePackage": "₹ 9,00,000",
+            "highestPackage": "₹ 42,00,000"
+        },
+        "rating": "4.3 ",
+        "reviews": "289 ",
+        "bestIn": "Campus Life",
+        "rank": "19",
+        "rankingSource": "NIRF2024"
+    },
+    {
+        "cdrank": 12,
+        "name": "NIT Surathkal National Institute of Technology[NITK], Surathkal",
+        "location": "Surathkal, Karnataka",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 180",
+            "fees": "₹ 1,50,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,50,000",
+            "averagePackage": "₹ 12,50,000",
+            "highestPackage": "₹ 44,00,000"
+        },
+        "rating": "4.4 ",
+        "reviews": "305 ",
+        "bestIn": "Infrastructure",
+        "rank": "21st",
+        "rankingSource": "NIRF2024"
+    },
+    {
+        "cdrank": 13,
+        "name": "NIT Rourkela National Institute of Technology[NITR], Rourkela",
+        "location": "Rourkela, Odisha",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 158",
+            "fees": "₹ 1,80,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,80,000",
+            "averagePackage": "₹ 11,00,000",
+            "highestPackage": "₹ 45,00,000"
+        },
+        "rating": "4.2 ",
+        "reviews": "270 ",
+        "bestIn": "Placements",
+        "rank": "32nd",
+        "rankingSource": "NIRF2024"
+    },
+    {
+        "cdrank": 14,
+        "name": "NIT Calicut National Institute of Technology[NITC], Calicut",
+        "location": "Calicut, Kerala",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 165",
+            "fees": "₹ 1,55,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,55,000",
+            "averagePackage": "₹ 9,80,000",
+            "highestPackage": "₹ 40,00,000"
+        },
+        "rating": "4.1 ",
+        "reviews": "250 ",
+        "bestIn": "Faculty",
+        "rank": "38",
+        "rankingSource": "NIRF2024"
+    },
+    {
+        "cdrank": 15,
+        "name": "NIT Kurukshetra National Institute of Technology[NITKKR], Kurukshetra",
+        "location": "Kurukshetra, Haryana",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 170",
+            "fees": "₹ 1,70,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,70,000",
+            "averagePackage": "₹ 10,50,000",
+            "highestPackage": "₹ 39,00,000"
+        },
+        "rating": "4.0 ",
+        "reviews": "260 ",
+        "bestIn": "Placements",
+        "rank": "45",
+        "rankingSource": "NIRF2024"
+    },
+    {
+        "cdrank": 16,
+        "name": "NIT Durgapur National Institute of Technology[NITDGP], Durgapur",
+        "location": "Durgapur, West Bengal",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech ",
+            "cutoff": "JEE-Main 2023 Cutoff: 170",
+            "fees": "₹ 1,70,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,70,000",
+            "averagePackage": "₹ 10,50,000",
+            "highestPackage": "₹ 39,00,000"
+        },
+        "rating": "4.0 ",
+        "reviews": "260 ",
+        "bestIn": "Placements",
+        "rank": "45",
+        "rankingSource": "NIRF2024"
+    },
+    {
+        "cdrank": 17,
+        "name": "Guru Gobind Singh Indraprastha University (GGSIPU), New Delhi",
+        "location": "New Delhi, Delhi",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech",
+            "cutoff": "IPU CET 2023 Cutoff: 110",
+            "fees": "₹ 1,20,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,20,000",
+            "averagePackage": "₹ 6,50,000",
+            "highestPackage": "₹ 18,00,000"
+        },
+        "rating": "4.0",
+        "reviews": "320",
+        "bestIn": "Placements",
+        "rank": "301",
+        "rankingSource": "NIRF2023"
+    },
+    {
+        "cdrank": 18,
+        "name": "Maharaja Agrasen Institute of Technology (MAIT), New Delhi",
+        "location": "New Delhi, Delhi",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech",
+            "cutoff": "IPU CET 2023 Cutoff: 150",
+            "fees": "₹ 1,10,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,10,000",
+            "averagePackage": "₹ 5,80,000",
+            "highestPackage": "₹ 15,00,000"
+        },
+        "rating": "3.8",
+        "reviews": "210",
+        "bestIn": "Faculty",
+        "rank": "451",
+        "rankingSource": "NIRF2023"
+    },
+    {
+        "cdrank": 19,
+        "name": "Bhagwan Parshuram Institute of Technology (BPIT), New Delhi",
+        "location": "New Delhi, Delhi",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech",
+            "cutoff": "IPU CET 2023 Cutoff: 175",
+            "fees": "₹ 95,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 95,000",
+            "averagePackage": "₹ 4,70,000",
+            "highestPackage": "₹ 12,00,000"
+        },
+        "rating": "3.5",
+        "reviews": "150",
+        "bestIn": "Infrastructure",
+        "rank": "601",
+        "rankingSource": "NIRF2023"
+    },
+    {
+        "cdrank": 20,
+        "name": "Maharaja Surajmal Institute of Technology (MSIT), New Delhi",
+        "location": "New Delhi, Delhi",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech",
+            "cutoff": "IPU CET 2023 Cutoff: 130",
+            "fees": "₹ 1,25,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,25,000",
+            "averagePackage": "₹ 6,00,000",
+            "highestPackage": "₹ 14,50,000"
+        },
+        "rating": "3.9",
+        "reviews": "180",
+        "bestIn": "Teaching",
+        "rank": "501",
+        "rankingSource": "NIRF2023"
+    },
+    {
+        "cdrank": 21,
+        "name": "HMR Institute of Technology and Management, New Delhi",
+        "location": "New Delhi, Delhi",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech",
+            "cutoff": "IPU CET 2023 Cutoff: 160",
+            "fees": "₹ 90,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 90,000",
+            "averagePackage": "₹ 4,20,000",
+            "highestPackage": "₹ 10,00,000"
+        },
+        "rating": "3.6",
+        "reviews": "140",
+        "bestIn": "Campus",
+        "rank": "651",
+        "rankingSource": "NIRF2023"
+    },
+    {
+        "cdrank": 22,
+        "name": "Bharati Vidyapeeth's College of Engineering, New Delhi",
+        "location": "New Delhi, Delhi",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech",
+            "cutoff": "IPU CET 2023 Cutoff: 140",
+            "fees": "₹ 1,15,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,15,000",
+            "averagePackage": "₹ 5,50,000",
+            "highestPackage": "₹ 13,00,000"
+        },
+        "rating": "3.7",
+        "reviews": "160",
+        "bestIn": "Research",
+        "rank": "551",
+        "rankingSource": "NIRF2023"
+    },
+    {
+        "cdrank": 23,
+        "name": "Ambedkar Institute of Advanced Communication Technologies and Research, New Delhi",
+        "location": "New Delhi, Delhi",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech",
+            "cutoff": "IPU CET 2023 Cutoff: 170",
+            "fees": "₹ 85,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 85,000",
+            "averagePackage": "₹ 4,90,000",
+            "highestPackage": "₹ 11,00,000"
+        },
+        "rating": "3.8",
+        "reviews": "170",
+        "bestIn": "Labs",
+        "rank": "501",
+        "rankingSource": "NIRF2023"
+    },
+    {
+        "cdrank": 24,
+        "name": "Northern India Engineering College (NIEC), New Delhi",
+        "location": "New Delhi, Delhi",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech",
+            "cutoff": "IPU CET 2023 Cutoff: 180",
+            "fees": "₹ 1,05,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,05,000",
+            "averagePackage": "₹ 5,00,000",
+            "highestPackage": "₹ 12,50,000"
+        },
+        "rating": "3.7",
+        "reviews": "150",
+        "bestIn": "Extracurricular",
+        "rank": "601",
+        "rankingSource": "NIRF2023"
+    },
+    {
+        "cdrank": 25,
+        "name": "Bhaskaracharya College of Applied Sciences, New Delhi",
+        "location": "New Delhi, Delhi",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech",
+            "cutoff": "IPU CET 2023 Cutoff: 190",
+            "fees": "₹ 95,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 95,000",
+            "averagePackage": "₹ 4,80,000",
+            "highestPackage": "₹ 11,50,000"
+        },
+        "rating": "3.6",
+        "reviews": "130",
+        "bestIn": "Facilities",
+        "rank": "651",
+        "rankingSource": "NIRF2023"
+    },
+    {
+        "cdrank": 26,
+        "name": "University School of Information, Communication and Technology (USICT), New Delhi",
+        "location": "New Delhi, Delhi",
+        "approval": "AICTE Approved",
+        "courses": {
+            "courseName": "B.E/B.Tech",
+            "cutoff": "IPU CET 2023 Cutoff: 115",
+            "fees": "₹ 1,30,000",
+            "courseType": "BE/B.Tech",
+            "firstYearFees": "₹ 1,30,000",
+            "averagePackage": "₹ 6,70,000",
+            "highestPackage": "₹ 17,00,000"
+        },
+        "rating": "4.1",
+        "reviews": "300",
+        "bestIn": "Innovation",
+        "rank": "301",
+        "rankingSource": "NIRF2023"
+    },
+    
+        {
+            "cdrank": 27,
+            "name": "Indian Institute of Technology (IIT), Kanpur",
+            "location": "Kanpur, Uttar Pradesh",
+            "approval": "AICTE Approved",
+            "courses": {
+                "courseName": "B.E/B.Tech",
+                "cutoff": "JEE-Advanced 2023 Cutoff: 200",
+                "fees": "₹ 2,20,000",
+                "courseType": "BE/B.Tech",
+                "firstYearFees": "₹ 2,20,000",
+                "averagePackage": "₹ 16,00,000",
+                "highestPackage": "₹ 1,00,00,000"
+            },
+            "rating": "4.8",
+            "reviews": "500",
+            "bestIn": "Engineering",
+            "rank": "60",
+            "rankingSource": "QS2023"
+        },
+        {
+            "cdrank": 28,
+            "name": "Indian Institute of Technology (IIT), Varanasi",
+            "location": "Varanasi, Uttar Pradesh",
+            "approval": "AICTE Approved",
+            "courses": {
+                "courseName": "B.E/B.Tech",
+                "cutoff": "JEE-Advanced 2023 Cutoff: 250",
+                "fees": "₹ 2,30,000",
+                "courseType": "BE/B.Tech",
+                "firstYearFees": "₹ 2,30,000",
+                "averagePackage": "₹ 15,00,000",
+                "highestPackage": "₹ 85,00,000"
+            },
+            "rating": "4.7",
+            "reviews": "450",
+            "bestIn": "Research",
+            "rank": "70",
+            "rankingSource": "QS2023"
+        },
+        {
+            "cdrank": 29,
+            "name": "Amity University, Noida",
+            "location": "Noida, Uttar Pradesh",
+            "approval": "UGC Approved",
+            "courses": {
+                "courseName": "B.E/B.Tech",
+                "cutoff": "Amity JEE 2023 Cutoff: 120",
+                "fees": "₹ 2,00,000",
+                "courseType": "BE/B.Tech",
+                "firstYearFees": "₹ 2,00,000",
+                "averagePackage": "₹ 6,00,000",
+                "highestPackage": "₹ 30,00,000"
+            },
+            "rating": "4.2",
+            "reviews": "400",
+            "bestIn": "Infrastructure",
+            "rank": "150",
+            "rankingSource": "QS2023"
+        },
+        {
+            "cdrank": 30,
+            "name": "Galgotias University, Greater Noida",
+            "location": "Greater Noida, Uttar Pradesh",
+            "approval": "UGC Approved",
+            "courses": {
+                "courseName": "B.E/B.Tech",
+                "cutoff": "Galgotias JEE 2023 Cutoff: 130",
+                "fees": "₹ 1,75,000",
+                "courseType": "BE/B.Tech",
+                "firstYearFees": "₹ 1,75,000",
+                "averagePackage": "₹ 5,00,000",
+                "highestPackage": "₹ 25,00,000"
+            },
+            "rating": "4.0",
+            "reviews": "350",
+            "bestIn": "Placements",
+            "rank": "200",
+            "rankingSource": "QS2023"
+        },
+        {
+            "cdrank": 31,
+            "name": "Jaypee Institute of Information Technology, Noida",
+            "location": "Noida, Uttar Pradesh",
+            "approval": "AICTE Approved",
+            "courses": {
+                "courseName": "B.E/B.Tech",
+                "cutoff": "JEE Main 2023 Cutoff: 150",
+                "fees": "₹ 2,10,000",
+                "courseType": "BE/B.Tech",
+                "firstYearFees": "₹ 2,10,000",
+                "averagePackage": "₹ 7,00,000",
+                "highestPackage": "₹ 32,00,000"
+            },
+            "rating": "4.3",
+            "reviews": "320",
+            "bestIn": "Campus Life",
+            "rank": "130",
+            "rankingSource": "QS2023"
+        },
+        {
+            "cdrank": 32,
+            "name": "Sharda University, Greater Noida",
+            "location": "Greater Noida, Uttar Pradesh",
+            "approval": "UGC Approved",
+            "courses": {
+                "courseName": "B.E/B.Tech",
+                "cutoff": "Sharda JEE 2023 Cutoff: 140",
+                "fees": "₹ 1,80,000",
+                "courseType": "BE/B.Tech",
+                "firstYearFees": "₹ 1,80,000",
+                "averagePackage": "₹ 6,50,000",
+                "highestPackage": "₹ 28,00,000"
+            },
+            "rating": "4.1",
+            "reviews": "310",
+            "bestIn": "Diversity",
+            "rank": "180",
+            "rankingSource": "QS2023"
+        },
+        {
+            "cdrank": 33,
+            "name": "Bennett University, Greater Noida",
+            "location": "Greater Noida, Uttar Pradesh",
+            "approval": "UGC Approved",
+            "courses": {
+                "courseName": "B.E/B.Tech",
+                "cutoff": "Bennett JEE 2023 Cutoff: 145",
+                "fees": "₹ 2,25,000",
+                "courseType": "BE/B.Tech",
+                "firstYearFees": "₹ 2,25,000",
+                "averagePackage": "₹ 7,50,000",
+                "highestPackage": "₹ 35,00,000"
+            },
+            "rating": "4.4",
+            "reviews": "290",
+            "bestIn": "Entrepreneurship",
+            "rank": "110",
+            "rankingSource": "QS2023"
+        },
+        {
+            "cdrank": 34,
+            "name": "JSS Academy of Technical Education, Noida",
+            "location": "Noida, Uttar Pradesh",
+            "approval": "AICTE Approved",
+            "courses": {
+                "courseName": "B.E/B.Tech",
+                "cutoff": "UPSEE 2023 Cutoff: 160",
+                "fees": "₹ 1,50,000",
+                "courseType": "BE/B.Tech",
+                "firstYearFees": "₹ 1,50,000",
+                "averagePackage": "₹ 5,50,000",
+                "highestPackage": "₹ 20,00,000"
+            },
+            "rating": "4.0",
+            "reviews": "280",
+            "bestIn": "Teaching",
+            "rank": "140",
+            "rankingSource": "QS2023"
+        },
+        {
+            "cdrank": 35,
+            "name": "ABES Engineering College, Ghaziabad",
+            "location": "Ghaziabad, Uttar Pradesh",
+            "approval": "AICTE Approved",
+            "courses": {
+                "courseName": "B.E/B.Tech",
+                "cutoff": "UPSEE 2023 Cutoff: 170",
+                "fees": "₹ 1,70,000",
+                "courseType": "BE/B.Tech",
+                "firstYearFees": "₹ 1,70,000",
+                "averagePackage": "₹ 5,00,000",
+                "highestPackage": "₹ 22,00,000"
+            },
+            "rating": "4.1",
+            "reviews": "270",
+            "bestIn": "Infrastructure",
+            "rank": "160",
+            "rankingSource": "QS2023"
+        },
+        {
+            "cdrank": 36,
+            "name": "Ajay Kumar Garg Engineering College, Ghaziabad",
+            "location": "Ghaziabad, Uttar Pradesh",
+            "approval": "AICTE Approved",
+            "courses": {
+                "courseName": "B.E/B.Tech",
+                "cutoff": "UPSEE 2023 Cutoff: 180",
+                "fees": "₹ 1,90,000",
+                "courseType": "BE/B.Tech",
+                "firstYearFees": "₹ 1,90,000",
+                "averagePackage": "₹ 6,00,000",
+                "highestPackage": "₹ 22,00,000"
+            },
+            "rating": "4.1",
+            "reviews": "270",
+            "bestIn": "Infrastructure",
+            "rank": "160",
+            "rankingSource": "QS2023"
+        }
+    ]
